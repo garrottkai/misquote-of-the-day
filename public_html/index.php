@@ -3,7 +3,7 @@
 	<head>
 		<title>Misquote of the Day!</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="styles.css">
+		<link rel="stylesheet" href="css/misquote-of-the-day.css">
 
 		<!-- 1. Load libraries -->
 		<!-- IE required polyfills, in this exact order -->
